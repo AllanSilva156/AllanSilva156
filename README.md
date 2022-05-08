@@ -1,5 +1,8 @@
 # Olá! Sou o Állan 👋
 
+<img class="center" src="https://user-images.githubusercontent.com/72108158/167319138-a070f814-c156-40c6-9f69-2aac6d20f154.gif" alt="Peaky-Blinder-Cat" style="height: 350px; width: 280px; text-align: center;"/>
+
+
 ## Sobre mim
 - 🔭 Pesquisador nas áreas de Ciência de Dados e Machine Learning
 - 📖 Aprendendo sobre Inteligência Artificial e Negócios
