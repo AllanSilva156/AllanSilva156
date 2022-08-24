@@ -1,13 +1,5 @@
 # Olá! Sou o Állan 👋
 
-<p align="center">
-  <img class="center" src="https://user-images.githubusercontent.com/72108158/167319138-a070f814-c156-40c6-9f69-2aac6d20f154.gif" alt="Peaky-Blinder-Cat" style="height: 350px; width: 280px;"/>
-</p>
-
-<p align="center"> 
-  Este é meu mascote: o Blinder Cat!
-</p>
-
 # Sobre mim
 - 🔭 Pesquisador nas áreas de Ciência de Dados e Machine Learning
 - 📖 Aprendendo sobre Inteligência Artificial e Negócios
@@ -15,10 +7,14 @@
 - 💬 Empreendedor cheio de sonhos a realizar
 - ⚡ Um pouco de bom humor nunca é demais
 
-# Tecnologias
+# Tecnologias e ferramentas
 <div style="display: inline_block"><br>
-  <img align="center" alt="Logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Logo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Logo-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Logo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Logo-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Logo-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Logo-Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Logo-Numpy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Logo-PyTorch" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+  <img align="center" alt="Logo-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Logo-Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Logo-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
