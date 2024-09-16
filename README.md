@@ -8,6 +8,7 @@
 - ⚡ Um pouco de bom humor nunca é demais
 
 ## Conheça meu portfólio
+- [Guia de Ferramentas para MLOps](https://github.com/AllanSilva156/mlops-tools-guide)
 - [Arquitetura StructML para Análise de Risco de Crédito](https://github.com/AllanSilva156/credit-risk-analysis)
 
 ## Tecnologias
